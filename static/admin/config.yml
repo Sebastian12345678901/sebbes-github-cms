@@ -34,6 +34,7 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Content", name: "content", widget: "string"}
+      - {label: "Testing", name: "testing", widget: "string"}
   - name: "pages"
     label: "Pages"
     files:
