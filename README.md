@@ -1,5 +1,5 @@
 # Gatsby + Netlify CMS Starter
-
+#  adresseb till din fucking jävla sida: https://infallible-meninsky-8cc9cf.netlify.com/
 # link to your admin account bellow.
 # http://infallible-meninsky-8cc9cf.netlify.com
 
